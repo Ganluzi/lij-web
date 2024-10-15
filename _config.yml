@@ -17,8 +17,8 @@ resume_title:                   "Student at Tsinghua University"
 resume_contact_email:           "lijingya21@mails.tsinghua.edu.cn"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       ""
-resume_contact_address:         ""
+resume_contact_telephone:       "a"
+resume_contact_address:         "a"
 
 resume_header_contact_info:     "lijingya21@mails.tsinghua.edu.cn"
 display_header_contact_info:    "false"
