@@ -1,6 +1,28 @@
 # Jobs
 # Job1
-- company: MMCO
-  position: Chief Human-Canine Factors Engineer
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: "The Design and Augmented Intelligence Lab"
+  position: "Research Assistant"
+  location: "Ithaca, NY"
+  duration: "Apr. 2024 — Sep. 2024"
+  summary: "Led data analysis for a study on the influence of sign frequency and scene complexity on navigation-related emotions in virtual environments."
+  tasks:
+    - "Visualized and analyzed over 50MB of data from 187 participants using Python and R, providing significant data-driven insights for the study."
+  
+# Job2
+- company: "Inner Mongolia North Hauler Joint Stock Co. Ltd."
+  position: "Manufacturing Planning Intern"
+  location: "Baotou, China"
+  duration: "Aug. 2024 — Sep. 2024"
+  summary: "Conducted production forecasting and optimization to recalibrate safety stock levels, order quantities, and manage component lifecycles."
+  tasks:
+    - "Led the development of an automated inventory management platform, improving accuracy and operational efficiency."
+
+# Job3
+- company: "China Galaxy Securities"
+  position: "Quantitative Research Intern"
+  location: "Beijing, China"
+  duration: "Jul. 2024 — Aug. 2024"
+  summary: "Analyzed stock market risks using advanced financial models and regression techniques."
+  tasks:
+    - "Developed and implemented a pair trading model in Python, enhancing decision-making for portfolio selection."
+    - "Engaged in self-study to rapidly acquire expertise in financial theories and market mechanisms."
