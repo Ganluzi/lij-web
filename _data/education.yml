@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: "Bachelor’s Degree in Industrial Engineering"
+  uni: "Tsinghua University"
+  year: "Expected graduation: Jun. 2025"
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: "National Scholarship (2022, rank 1/52)"
+    - award: "Tsinghua University Undergraduate Comprehensive Excellence Award (Academic Excellence, Technological Innovation, Social Practice Excellence) (2022, rank 1/52)"
+  summary: "Relevant Coursework: Human Factors, Safety Engineering, Essentials of Management, Facilities Planning & Material Handling, Operations Research, Applied Statistics and Data Analytics, Machine Learning and Data, Modeling and Simulation"
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: "Exchange Student in Operations Research and Information Engineering"
+  uni: "Cornell University"
+  year: "Jan. 2024 — May 2024"
+  summary: "Relevant Coursework: Introduction to Psychology, Multivariate Analysis, Principles of Supply Chain Management, GPA: 3.84/4.30"
