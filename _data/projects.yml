@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# The Design and Augmented Intelligence Lab
+- project: The Design and Augmented Intelligence Lab
+  role: Research Assistant, supervised by Professor Salah Kalantari
+  duration: Apr. 2024 &mdash; Sept. 2024
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Reviewed over 20 research papers for a virtual reality research project on spatial learning and cybersickness. Contributed to experimental design and SOPs. Led data analysis on navigation-related emotions and conducted in-depth qualitative analysis on navigational factors in hospital architecture.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Impact of Sign Language Visuals on News Comprehension and Viewer Satisfaction
+- project: Impact of Sign Language Visuals on News Comprehension and Viewer Satisfaction
+  role: Independent Research, supervised by Professor Pei-Luen Patrick Rau
+  duration: Jan. 2022 &mdash; Jan. 2024
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Designed and executed a mixed design experimental study with 24 participants. Conducted statistical analysis to evaluate interpreter image sizes and interpretation speed. Concluded larger image sizes improve comprehension for deaf viewers, and medium speed enhances satisfaction for all.
+
+# Impact of Pie Chart Design on Performance and User Experience
+- project: Impact of Pie Chart Design on Performance and User Experience
+  role: Course Project
+  duration: Oct. 2022 &mdash; Jan. 2023
+  # url: "#"
+  description: Studied the effects of pie chart design variables on user performance and preferences with 16 participants. Conducted ANOVA and regression analysis in Python. Found that pie charts with percentages and internal labels improve efficiency, readability, and user satisfaction.
+
+# Wisdom Elderly Care Social Research
+- project: Wisdom Elderly Care Social Research
+  role: Social Practice Project
+  duration: July 2022
+  # url: "#"
+  description: Conducted field research in elderly care institutions, interviewed over 30 stakeholders, and analyzed age-friendly technology and services like “Time Bank” for solitary seniors. Delivered insights on technology integration in elderly care to the host institution.
