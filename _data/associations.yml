@@ -1,14 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Tsinghua University Student Sign Language Association
-  role: Vice President
-  year: Dec. 2021 &mdash; Dec. 2023
+- organization: "Tsinghua University Student Sign Language Association"
+  role: "Vice President"
+  year: "Dec. 2021 — Dec. 2023"
   # url: "#"
-  summary: Led initiatives to promote sign language through campaigns and tutorials, enhancing community engagement. Organized events and coordinated performance rehearsals.
+  summary: "Led initiatives to promote sign language through campaigns and tutorials, enhancing community engagement. Organized events and coordinated performance rehearsals."
 
-- organization: Qingcao Warm Winter Charity Teaching Activity
-  role: Volunteer Teacher
-  year: Jan. 2022
+- organization: "Qingcao Warm Winter Charity Teaching Activity"
+  role: "Volunteer Teacher"
+  year: "Jan. 2022"
   # url: "#"
-  summary: Developed and delivered biology lessons using innovative teaching methods, improving students' understanding of complex biological concepts.
+  summary: "Developed and delivered biology lessons using innovative teaching methods, improving students' understanding of complex biological concepts."
