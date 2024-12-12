@@ -42,7 +42,7 @@
 - project: "Impact of Pie Chart Design on Performance and User Experience"
   role: "Course Project"
   duration: "Oct. 2022 — Jan. 2023"
-  image: "images/ailab.png"
+  image: "images/pchart.png"
   # url: "#"
 
   description: "Studied the effects of pie chart design variables on user performance and preferences with 16 participants. Conducted ANOVA and regression analysis in Python. Found that pie charts with percentages and internal labels improve efficiency, readability, and user satisfaction."
