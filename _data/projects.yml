@@ -37,6 +37,7 @@
   role: "Course Project"
   duration: "Oct. 2022 — Jan. 2023"
   # url: "#"
+  image: "images/1.png"
   description: "Studied the effects of pie chart design variables on user performance and preferences with 16 participants. Conducted ANOVA and regression analysis in Python. Found that pie charts with percentages and internal labels improve efficiency, readability, and user satisfaction."
 
 # Wisdom Elderly Care Social Research
