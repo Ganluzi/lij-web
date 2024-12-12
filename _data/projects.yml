@@ -6,6 +6,7 @@
   role: "Research Assistant, supervised by Professor Salah Kalantari"
   duration: "Apr. 2024 — Sept. 2024"
   # url: "#"
+  image: "images/dail.png"
   description: "Reviewed over 20 research papers for a virtual reality research project on spatial learning and cybersickness. Contributed to experimental design and SOPs. Led data analysis on navigation-related emotions and conducted in-depth qualitative analysis on navigational factors in hospital architecture."
 
 # Impact of Sign Language Visuals on News Comprehension and Viewer Satisfaction
@@ -22,7 +23,7 @@
   role: "Course Project"
   duration: "Oct. 2023 — Jan. 2024"
   # url: "#"
-  image2: "images/1.jpg"
+  image: "images/1.jpg"
   image2: "images/6.jpg"
   description: |
     Developed and optimized a fault detection algorithm for Autonomous Underwater Vehicles (AUVs) using ANN, CNN, and RNN models. Enhanced RNN with GRU, achieving up to 97% accuracy. Applied data preprocessing techniques, including LabelEncoder, data slicing, and warping. Incorporated Cosine Annealing for learning rate decay and systematic parameter tuning, including dropout, batch normalization, and Xavier initialization.
