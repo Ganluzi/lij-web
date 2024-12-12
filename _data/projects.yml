@@ -24,7 +24,7 @@
   role: "Course Project"
   duration: "Oct. 2023 — Jan. 2024"
   # url: "#"
-  image: "images/1.jpg"
+  image: "images/1.png"
   image2: "images/6.jpg"
   description: |
     Developed and optimized a fault detection algorithm for Autonomous Underwater Vehicles (AUVs) using ANN, CNN, and RNN models. Enhanced RNN with GRU, achieving up to 97% accuracy. Applied data preprocessing techniques, including LabelEncoder, data slicing, and warping. Incorporated Cosine Annealing for learning rate decay and systematic parameter tuning, including dropout, batch normalization, and Xavier initialization.
