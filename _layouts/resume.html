@@ -120,15 +120,15 @@
     </h4>
     <p class="resume-item-copy">{{ project.description }}</p>
 
-    <!-- Check if images are present -->
-    <div style="text-align: center; margin-top: 10px;">
+    <!-- Image section with flexbox layout for horizontal alignment -->
+    <div style="display: flex; justify-content: center; gap: 10px; align-items: stretch; margin-top: 10px;">
       {% if project.image %}
       <img src="{{ project.image }}" alt="{{ project.project }} image 1"
-           style="display: inline-block; height: 250px; width: auto; object-fit: cover; margin-right: 10px;" itemprop="image">
+           style="height: 250px; width: auto; object-fit: cover;" itemprop="image">
       {% endif %}
       {% if project.image2 %}
       <img src="{{ project.image2 }}" alt="{{ project.project }} image 2"
-           style="display: inline-block; height: 250px; width: auto; object-fit: cover;" itemprop="image">
+           style="height: 250px; width: auto; object-fit: cover;" itemprop="image">
       {% endif %}
     </div>
   </div>
@@ -136,6 +136,7 @@
 
 </section>
 <!-- end Projects -->
+
 
 
 
