@@ -99,43 +99,38 @@
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
-	 <section class="content-section">
-	 <header class="section-header">
-	 	<h2>Projects</h2>
-	 </header>
-	 
-	 {% for project in site.data.projects %}
-	 <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-	 	<meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-	 
-	 	<table style="width: 100%; margin-bottom: 20px; border-spacing: 10px;">
-	 	<tr>
-	 		<!-- Check if an image is present -->
-	 		{% if project.image %}
-	 		<td style="width: 30%; vertical-align: top;">
-	 		<img src="{{ project.image }}" alt="{{ project.project }} image" style="max-width: 100%; height: auto;" itemprop="image">
-	 		</td>
-	 		{% endif %}
-	 
-	 		<td style="width: 70%; vertical-align: top;">
-	 		<h3 class="resume-item-title" itemprop="name" style="margin: 0;">
-	 			{% if project.url %}
-	 			<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>
-	 			{% else %}
-	 			{{ project.project }}
-	 			{% endif %}
-	 		</h3>
-	 		<h4 class="resume-item-details" itemprop="description" style="margin: 0; font-weight: normal;">
-	 			{{ project.role }} &bull; {{ project.duration }}
-	 		</h4>
-	 		<p class="resume-item-copy" style="margin-top: 10px;">{{ project.description }}</p>
-	 		</td>
-	 	</tr>
-	 	</table>
-	 </div>
-	 {% endfor %}
-	 </section>
+<section class="content-section">
+  <header class="section-header">
+    <h2>Projects</h2>
+  </header>
+
+  {% for project in site.data.projects %}
+  <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+
+    <h3 class="resume-item-title" itemprop="name">
+      {% if project.url %}
+      <a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>
+      {% else %}
+      {{ project.project }}
+      {% endif %}
+    </h3>
+    <h4 class="resume-item-details" itemprop="description">
+      {{ project.role }} &bull; {{ project.duration }}
+    </h4>
+    <p class="resume-item-copy">{{ project.description }}</p>
+
+    <!-- Check if an image is present -->
+    {% if project.image %}
+    <div style="text-align: center; margin-top: 10px;">
+      <img src="{{ project.image }}" alt="{{ project.project }} image" style="max-width: 100%; height: auto;" itemprop="image">
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
 <!-- end Projects -->
+
       {% endif %}
 
       {% if site.resume_section_skills %}
