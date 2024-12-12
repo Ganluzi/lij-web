@@ -21,7 +21,7 @@ resume_contact_telephone:       "a"
 resume_contact_address:         "a"
 
 resume_header_contact_info:     "lijingya21@mails.tsinghua.edu.cn"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am a dedicated Industrial Engineering student at Tsinghua University with a strong academic record and hands-on research experience in virtual reality and user experience. My goal is to leverage my skills in data analysis and human factors to drive innovative solutions in technology and design.</p>"
 
