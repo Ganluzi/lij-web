@@ -25,8 +25,8 @@
   role: "Course Project"
   duration: "Oct. 2023 — Jan. 2024"
   # url: "#"
-  image: "images/1.png"
-  image2: "images/6.jpg"
+  image: "images/6.jpg"
+  image2: "images/1.png"
   description: |
     Developed and optimized a fault detection algorithm for Autonomous Underwater Vehicles (AUVs) using ANN, CNN, and RNN models. Enhanced RNN with GRU, achieving up to 97% accuracy. Applied data preprocessing techniques, including LabelEncoder, data slicing, and warping. Incorporated Cosine Annealing for learning rate decay and systematic parameter tuning, including dropout, batch normalization, and Xavier initialization.
 
@@ -35,6 +35,8 @@
   role: "Challenge Cup Project"
   duration: "Dec. 2022 — May 2023"
   # url: "#"
+  image: "images/3.png"
+  image2: "images/4.png"
   description: |
     Upgraded the SEIR (Susceptible Exposed Infected Recovered) model to a SEIUR model, accounting for undetected or unreported cases. Used AnyLogic and Java to implement time-dependent parameter segmentation, improving model responsiveness to evolving epidemic conditions. Formulated new dynamic equations, applied piecewise linear parameters, and automated data-driven updates, significantly improving prediction accuracy in a 70-day simulation.
 
@@ -43,6 +45,7 @@
   role: "Course Project"
   duration: "Oct. 2022 — Jan. 2023"
   image: "images/pchart.png"
+  image2: "images/5.png"
   # url: "#"
 
   description: "Studied the effects of pie chart design variables on user performance and preferences with 16 participants. Conducted ANOVA and regression analysis in Python. Found that pie charts with percentages and internal labels improve efficiency, readability, and user satisfaction."
