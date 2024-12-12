@@ -13,6 +13,7 @@
   role: "Independent Research, supervised by Professor Pei-Luen Patrick Rau"
   duration: "May 2022 — Jul. 2024"
   # url: "#"
+  image: "images/satisfaction.png"
   description: |
     Designed and executed a mixed experimental study with 24 participants (12 deaf and 12 hearing). Evaluated interpreter image sizes as within-group variables and interpretation speed as between-group variables. Conducted subjective and objective evaluations with After-Scenario questionnaires, and utilized mixed-ANOVA, Kruskal-Wallis, and Wilcoxon signed-rank tests for analysis. Concluded larger image sizes improve comprehension for deaf viewers, while medium speed enhances satisfaction across both groups.
 
@@ -37,7 +38,7 @@
   role: "Course Project"
   duration: "Oct. 2022 — Jan. 2023"
   # url: "#"
-  image: "images/1.png"
+
   description: "Studied the effects of pie chart design variables on user performance and preferences with 16 participants. Conducted ANOVA and regression analysis in Python. Found that pie charts with percentages and internal labels improve efficiency, readability, and user satisfaction."
 
 # Wisdom Elderly Care Social Research
